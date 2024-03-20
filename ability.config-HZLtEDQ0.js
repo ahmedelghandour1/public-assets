@@ -1,0 +1,2 @@
+var r=(e=>(e.Create="create",e.Delete="delete",e.Manage="manage",e.Read="read",e.Update="update",e))(r||{}),a=(e=>(e.All="all",e.Article="Article",e.Billing="Billing",e.City="City",e.Event="Event",e.Feed="Feed",e.GarbageArea="GarbageArea",e.Organization="Organization",e.Page="Page",e.PageCategory="PageCategory",e.Post="Post",e.PostCategory="PostCategory",e.User="User",e.Website="Website",e))(a||{});export{r as C,a};
+//# sourceMappingURL=ability.config-HZLtEDQ0.js.map
